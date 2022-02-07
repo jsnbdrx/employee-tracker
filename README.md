@@ -14,7 +14,7 @@
 ## Links
 
 * GitHub Repository: https://github.com/jsnbdrx/employee-tracker
-* Walkthrough Video: 
+* Walkthrough Video: https://watch.screencastify.com/v/Kc8ir0oS64a1t8tQf5D5
 
 ## App Description
 
