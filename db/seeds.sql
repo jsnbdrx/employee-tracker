@@ -2,24 +2,24 @@ USE employee_tracker;
 
 INSERT INTO departments (dept_name)
 VALUES
-  ('Human Resources'),
-  ('Information Technology'),
-  ('Marketing'),
-  ('Sales'),
-  ('Logistics');
+  ('Building Care'),
+  ('Information Sharing'),
+  ('Legal'),
+  ('Goofball'),
+  ('Housekeeping');
 
   INSERT INTO roles (title, salary, dept_id)
   VALUES
-('HR Manager','75000',1),
-('HR Analyst','60000',1),
-('IT Manager','125000',2),
-('IT Sr Developer','100000',2),
-('Mkt Manager','120000',3),
-('Mkt Analyst','95000',3),
-('Sales Manager','85000',4),
-('Sales Associate','50000',4),
-('Logistics Manager','110000',5),
-('Logistics Analyst','65000',5);
+('Narrator','75000',1),
+('Architect','60000',1),
+('Reporter','125000',2),
+('Teacher','100000',2),
+('PLEASE','120000',3),
+('Lawyer','95000',3),
+('Police Officer','85000',4),
+('Bartender','50000',4),
+('Housekeeping Manager','110000',5),
+('Cook','65000',5);
 
 INSERT INTO employees (first_name,last_name,manager_id, roles_id)
 VALUES
